@@ -1,23 +1,17 @@
 [
     {
         "title": "国足，被“抬进”世界杯？",
-        "image_url": "https://github.com/naughtyJun/book/blob/main/1/1.webp",
+        "image_url": "https://raw.githubusercontent.com/naughtyJun/book/refs/heads/main/1/1.webp",
         "abstract": "在近日举行的国际足联理事会会议即将结束时，来自乌拉圭的理事会成员提出了一项建议：2030年世界杯扩军至64支球队参加。",
-        "resource_url": "https://github.com/naughtyJun/book/blob/main/1/国足，被“抬进”世界杯？.md",
-        "updated_at": 1715222222
     },
     {
         "title": "苏州再发楼市新政",
-        "image_url": "https://github.com/naughtyJun/book/blob/main/2/2.jpeg",
+        "image_url": "https://raw.githubusercontent.com/naughtyJun/book/refs/heads/main/2/2.jpeg",
         "abstract": "3月10日，苏州官方发布消息，当地住建局和金融部门出台了“三低一宽”房贷政策，叠加人才房票政策，进一步降低购房门槛，助力青年人、新市民购房置业。上海易居房地产研究院",
-        "resource_url": "https://github.com/naughtyJun/book/blob/main/2/苏州再发楼市新政.md",
-        "updated_at": 1715222222
     },
     {
         "title": "又一个千万人口大市诞生了",
-        "image_url": "https://github.com/naughtyJun/book/blob/main/3/3.png",
+        "image_url": "https://raw.githubusercontent.com/naughtyJun/book/refs/heads/main/3/3.png",
         "abstract": "3月10日，安徽省统计局发布数据，合肥市常住人口突破1000万，成为中国第18座常住人口破千万的城市。",
-        "resource_url": "https://github.com/naughtyJun/book/blob/main/3/又一个千万人口大市诞生了.md",
-        "updated_at": 1715222222
     }
 ]
