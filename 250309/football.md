@@ -8,10 +8,7 @@
 
 球迷们在社交媒体上表示。
 
-![国足被抬进世界杯](https://raw.githubusercontent.com/naughtyJun/book/refs/heads/main/1/1.webp)
-
-
-我做了一版本更新，看看是否能收到推送!!
+![国足被抬进世界杯](https://raw.githubusercontent.com/naughtyJun/book/refs/heads/main/250309/1.webp)
 
 
 
